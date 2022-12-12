@@ -34,7 +34,7 @@ public class LibraryController: ControllerBase
         {
 
             PublishedDate = DateOnly.FromDateTime(DateTime.Now.AddDays(-Random.Shared.Next(2000))),
-            Page = Random.Shared.Next(50, 200),
+            Pages = Random.Shared.Next(50, 200),
             Name = BookNames[Random.Shared.Next(BookNames.Length)]
         })
         .ToArray();

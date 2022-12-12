@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/HelloDotNet/HelloZitSpace/HelloZitSpace.csproj": {}
+    "/workspaces/HelloDotNet/HelloApiCode/HelloZitSpace.csproj": {}
   },
   "projects": {
-    "/workspaces/HelloDotNet/HelloZitSpace/HelloZitSpace.csproj": {
+    "/workspaces/HelloDotNet/HelloApiCode/HelloZitSpace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/HelloDotNet/HelloZitSpace/HelloZitSpace.csproj",
+        "projectUniqueName": "/workspaces/HelloDotNet/HelloApiCode/HelloZitSpace.csproj",
         "projectName": "HelloZitSpace",
-        "projectPath": "/workspaces/HelloDotNet/HelloZitSpace/HelloZitSpace.csproj",
+        "projectPath": "/workspaces/HelloDotNet/HelloApiCode/HelloZitSpace.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/HelloDotNet/HelloZitSpace/obj/",
+        "outputPath": "/workspaces/HelloDotNet/HelloApiCode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
