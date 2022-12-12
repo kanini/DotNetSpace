@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HelloMvcCode.props" />
+</Project>
