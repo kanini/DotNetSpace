@@ -447,9 +447,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/HelloDotNet/HelloApiCode/HelloZitSpace.csproj",
-      "projectName": "HelloZitSpace",
-      "projectPath": "/workspaces/HelloDotNet/HelloApiCode/HelloZitSpace.csproj",
+      "projectUniqueName": "/workspaces/HelloDotNet/HelloApiCode/HelloApiCode.csproj",
+      "projectName": "HelloApiCode",
+      "projectPath": "/workspaces/HelloDotNet/HelloApiCode/HelloApiCode.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
       "outputPath": "/workspaces/HelloDotNet/HelloApiCode/obj/",
       "projectStyle": "PackageReference",
