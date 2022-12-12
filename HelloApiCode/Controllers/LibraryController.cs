@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace HelloZitSpace.Controllers;
+namespace Library.Controllers;
 
 [ApiController]
 [Route("[controller]")]
@@ -8,14 +8,14 @@ public class LibraryController: ControllerBase
 {
     private static readonly string[] BookNames = new[]
     {
-    "Absalom, Absalom!",
-"A Time to Kill by John Grisham. ",
-"The House of Mirth by Edith Wharton. ",
-"East of Eden by John Steinbeck. ",
-"The Sun Also Rises by Ernest Hemingway. ",
-"Vile Bodies by Evelyn Waugh. ",
-"A Scanner Darkly by Philip K. ",
-"Moab is my Washpot by Stephen Fry"
+        "Absalom, Absalom!",
+        "A Time to Kill by John Grisham. ",
+        "The House of Mirth by Edith Wharton. ",
+        "East of Eden by John Steinbeck. ",
+        "The Sun Also Rises by Ernest Hemingway. ",
+        "Vile Bodies by Evelyn Waugh. ",
+        "A Scanner Darkly by Philip K. ",
+        "Moab is my Washpot by Stephen Fry"
 
     };
 
@@ -26,7 +26,7 @@ public class LibraryController: ControllerBase
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    [HttpGet(Name = "GetBooks")]
     public IEnumerable<Book> Get()
     {
        

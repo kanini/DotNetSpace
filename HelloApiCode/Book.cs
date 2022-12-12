@@ -1,4 +1,4 @@
-namespace HelloZitSpace;
+namespace Library;
 
 public class Book
 {
