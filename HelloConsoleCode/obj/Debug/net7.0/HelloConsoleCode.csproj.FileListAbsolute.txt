@@ -1,0 +1,15 @@
+/workspaces/HelloDotNet/HelloConsoleCode/bin/Debug/net7.0/HelloConsoleCode
+/workspaces/HelloDotNet/HelloConsoleCode/bin/Debug/net7.0/HelloConsoleCode.deps.json
+/workspaces/HelloDotNet/HelloConsoleCode/bin/Debug/net7.0/HelloConsoleCode.runtimeconfig.json
+/workspaces/HelloDotNet/HelloConsoleCode/bin/Debug/net7.0/HelloConsoleCode.dll
+/workspaces/HelloDotNet/HelloConsoleCode/bin/Debug/net7.0/HelloConsoleCode.pdb
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.csproj.AssemblyReference.cache
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.AssemblyInfoInputs.cache
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.AssemblyInfo.cs
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.csproj.CoreCompileInputs.cache
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.dll
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/refint/HelloConsoleCode.dll
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.pdb
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/HelloConsoleCode.genruntimeconfig.cache
+/workspaces/HelloDotNet/HelloConsoleCode/obj/Debug/net7.0/ref/HelloConsoleCode.dll
