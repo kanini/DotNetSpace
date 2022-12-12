@@ -16,7 +16,7 @@ public class DistrictController: ControllerBase
     }
 
     [HttpGet(Name = "GetLibrary")]
-    public IEnumerable<String> Get()
+    public IEnumerable<String> GetLibrary()
     {
        
        return libraryNames;

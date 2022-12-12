@@ -27,7 +27,7 @@ public class LibraryController: ControllerBase
     }
 
     [HttpGet(Name = "GetBooks")]
-    public IEnumerable<Book> Get()
+    public IEnumerable<Book> GetBooks()
     {
        
         return Enumerable.Range(1, 5).Select(index => new Book
